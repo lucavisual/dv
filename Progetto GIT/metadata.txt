@@ -1,0 +1,19 @@
+adm0_name  -> is the name of the state
+
+adm1_name -> It is the name of the region
+
+mkt_name -> Market name of a particular region
+
+um_name -> Specify the unit of measurement we consider for food
+
+mp_month -> Month to which the data refer
+
+mp_year -> Year to which the data refer
+
+mp_price -> Price in that month in that market for that type of food
+
+Latitude -> Latitude Longitude of the area
+
+Longitude -> Longitude of the area
+
+cm_type -> Type of food  
